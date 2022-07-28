@@ -1,4 +1,5 @@
 > 能兼容Chrome43+
+> 
 > vue2.6.11 + typescript
 
 ## Project setup
